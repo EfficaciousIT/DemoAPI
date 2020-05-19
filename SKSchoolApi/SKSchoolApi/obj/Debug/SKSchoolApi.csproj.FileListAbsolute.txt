@@ -1,0 +1,159 @@
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.dll.config
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.pdb
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.dll
+C:\inetpub\wwwroot\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.pdb
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\ApplicationInsights.config
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\csc.exe
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\vbc.exe
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\VBCSCompiler.exe
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.dll.config
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.pdb
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Web.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.ApplicationInsights.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Newtonsoft.Json.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Net.Http.Formatting.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.WebHost.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Web.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.ApplicationInsights.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Newtonsoft.Json.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Net.Http.Formatting.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.WebHost.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.csprojResolveAssemblyReference.cache
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.pdb
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Antlr3.Runtime.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Helpers.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Mvc.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Optimization.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Razor.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Deployment.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Razor.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\WebGrease.dll
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\Antlr3.Runtime.pdb
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Helpers.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Mvc.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Optimization.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.Razor.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Deployment.xml
+D:\Application Live\NPST\Uttarakhand\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Razor.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\ApplicationInsights.config
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\csc.exe
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\vbc.exe
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\VBCSCompiler.exe
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.dll.config
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\SKSchoolApi.pdb
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Antlr3.Runtime.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Web.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.ApplicationInsights.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Newtonsoft.Json.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Net.Http.Formatting.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Helpers.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.WebHost.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Mvc.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Optimization.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Razor.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Deployment.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Razor.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\WebGrease.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Antlr3.Runtime.pdb
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.Web.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.ApplicationInsights.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Helpers.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Mvc.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Optimization.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Razor.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Deployment.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.WebPages.Razor.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\Newtonsoft.Json.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Net.Http.Formatting.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\bin\System.Web.Http.WebHost.xml
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.csprojResolveAssemblyReference.cache
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.dll
+D:\Application Live\Mumbai\Android Demo\SKSchoolApi\SKSchoolApi\obj\Debug\SKSchoolApi.pdb
