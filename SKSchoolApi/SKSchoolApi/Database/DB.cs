@@ -609,7 +609,7 @@ namespace SKSchoolApi.Database
                         com.Parameters.AddWithValue("@Std", timetable.intStandard_id);
                         com.Parameters.AddWithValue("@Day", timetable.Day);
                         com.Parameters.AddWithValue("@div", timetable.intDivision_id);
-                        
+
                     }
                     else if (command == "selectExamTT")
                     {
@@ -674,7 +674,7 @@ namespace SKSchoolApi.Database
                     {
                         query = "usp_BookDetails";
                     }
-                    else if(command == "AssignBookDetails" || command == "TeacherAssignBookDetails")
+                    else if (command == "AssignBookDetails" || command == "TeacherAssignBookDetails")
                     {
                         query = "usp_tblBookAssign";
                     }
@@ -688,17 +688,17 @@ namespace SKSchoolApi.Database
                     com.Parameters.AddWithValue("@command", command);
                     com.Parameters.AddWithValue("@intschool_id", library.intschool_id);
 
-                    if(command == "GetCategoryWiseData")
+                    if (command == "GetCategoryWiseData")
                     {
                         com.Parameters.AddWithValue("@intCategory_id", library.intCategory_id);
                         com.Parameters.AddWithValue("@intstandard_id", library.intStandard_id);
                         com.Parameters.AddWithValue("@intBookLanguage_id", library.intBookLanguage_id);
                     }
-                    else if( command == "GetStandardWiseBookList")
+                    else if (command == "GetStandardWiseBookList")
                     {
                         com.Parameters.AddWithValue("@intStandard_id", library.intStandard_id);
                     }
-                    else if(command == "AssignBookDetails")
+                    else if (command == "AssignBookDetails")
                     {
                         com.Parameters.AddWithValue("@intstandard_id", library.intStandard_id);
                         com.Parameters.AddWithValue("@intStudent_id", library.intStudent_id);
@@ -706,7 +706,7 @@ namespace SKSchoolApi.Database
                         com.Parameters.AddWithValue("@dtReturn_date", library.dtReturn_date);
                         com.Parameters.AddWithValue("@intBookLanguage_id", library.intBookLanguage_id);
                     }
-                    else if(command == "TeacherAssignBookDetails")
+                    else if (command == "TeacherAssignBookDetails")
                     {
                         com.Parameters.AddWithValue("@intTeacher_id", library.intTeacher_id);
                         com.Parameters.AddWithValue("@intDepartment_id", library.intDepartment_id);
@@ -1268,7 +1268,7 @@ namespace SKSchoolApi.Database
                     DataSet ds = new DataSet();
                     da.Fill(ds, "GalleryDetail");
                     return (ds);
-                 
+
                 }
                 catch (Exception ex)
                 {
@@ -1346,7 +1346,7 @@ namespace SKSchoolApi.Database
                         com.Parameters.AddWithValue("@FromDate", feedetail.fromdate);
                         com.Parameters.AddWithValue("@ToDate", feedetail.todate);
                     }
-                   
+
                     SqlDataAdapter da = new SqlDataAdapter(com);
                     DataSet ds = new DataSet();
                     da.Fill(ds, "FeeDetails");
@@ -1507,7 +1507,7 @@ namespace SKSchoolApi.Database
             {
                 try
                 {
-                  
+
                     String query = "usp_SchoolFeeCollectionNew_SP";
                     SqlCommand com = new SqlCommand(query, con);
                     con.Open();
@@ -1521,10 +1521,10 @@ namespace SKSchoolApi.Database
 
                     //if (command == "DueTransportMonthstudent")
                     //{
-                        
+
                     //    com.Parameters.AddWithValue("@intStandard_id", feedetail.intstandard_id );
                     //    com.Parameters.AddWithValue("@intDivision_id", feedetail.intDivision_id );
-                        
+
                     //}
 
                     SqlDataAdapter da = new SqlDataAdapter(com);
@@ -1722,6 +1722,43 @@ namespace SKSchoolApi.Database
                     SqlDataAdapter da = new SqlDataAdapter(com);
                     DataSet ds = new DataSet();
                     da.Fill(ds, "OnlineSchedule");
+                    return (ds);
+                }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
+                finally
+                {
+                    con.Close();
+                    con.Dispose();
+                }
+            }
+        }
+        public DataSet APKVersionDetails(string command, APKVersion aPKVersion)
+        {
+            using (SqlConnection con = new SqlConnection(constr))
+            {
+                try
+                {
+                    String query = "usp_APkVersion";
+                    SqlCommand com = new SqlCommand(query, con);
+                    con.Open();
+                    com.CommandType = CommandType.StoredProcedure;
+                    if (command == "SelectVersion")
+                    {
+                        com.Parameters.AddWithValue("@command", command);
+                        com.Parameters.AddWithValue("@intSchool_id", aPKVersion.intschool_id);
+                    }
+                    else if (command == "insertVersion")
+                    {
+                        com.Parameters.AddWithValue("@command", command);
+                        com.Parameters.AddWithValue("@intSchool_id", aPKVersion.intschool_id);
+                        com.Parameters.AddWithValue("@vchVersion_name", aPKVersion.vchVersion_name);
+                    }
+                    SqlDataAdapter da = new SqlDataAdapter(com);
+                    DataSet ds = new DataSet();
+                    da.Fill(ds, "APKVersion");
                     return (ds);
                 }
                 catch (Exception ex)
