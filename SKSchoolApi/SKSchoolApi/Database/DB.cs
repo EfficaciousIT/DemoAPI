@@ -670,7 +670,7 @@ namespace SKSchoolApi.Database
                 try
                 {
                     String query = "";
-                    if (command == "GetCategoryWiseData" || command == "GetStandardWiseBookList")
+                    if (command == "GetCategoryWiseData" || command == "GetStandardWiseBookList" || command == "GetBookList")
                     {
                         query = "usp_BookDetails";
                     }
@@ -1162,6 +1162,7 @@ namespace SKSchoolApi.Database
                     com.Parameters.AddWithValue("@vchNotice", noticeboard.vchNotice);
                     com.Parameters.AddWithValue("@intInserted_by", noticeboard.intInserted_by);
                     com.Parameters.AddWithValue("@InsertIP", noticeboard.InsertIP);
+                    com.Parameters.AddWithValue("@AcademicID", noticeboard.intAcademic_id);
                     SqlDataAdapter da = new SqlDataAdapter(com);
                     DataSet ds = new DataSet();
                     da.Fill(ds, "NoticeboardDetail");
@@ -1655,6 +1656,7 @@ namespace SKSchoolApi.Database
                         com.Parameters.AddWithValue("@intSchool_id", onlineClassTimetable.intSchool_id);
                         com.Parameters.AddWithValue("@intTeacher_id", onlineClassTimetable.intTeacher_id);
                         com.Parameters.AddWithValue("@dtLecture_date", onlineClassTimetable.dtLecture_date);
+                        com.Parameters.AddWithValue("@intStandard_id", onlineClassTimetable.intStandard_id);
                     }
                     else if (command == "AdminWiseList")
                     {
@@ -1662,12 +1664,19 @@ namespace SKSchoolApi.Database
                         com.Parameters.AddWithValue("@intAcademic_id", onlineClassTimetable.intAcademic_id);
                         com.Parameters.AddWithValue("@intSchool_id", onlineClassTimetable.intSchool_id);
                         com.Parameters.AddWithValue("@dtLecture_date", onlineClassTimetable.dtLecture_date);
+                        com.Parameters.AddWithValue("@intStandard_id", onlineClassTimetable.intStandard_id);
                     }
                     else if (command == "GetOnliceClassDetails")
                     {
                         com.Parameters.AddWithValue("@command", command);
                         com.Parameters.AddWithValue("@intSchool_id", onlineClassTimetable.intSchool_id);
                         com.Parameters.AddWithValue("@intOnlinelecture_id", onlineClassTimetable.intOnlinelecture_id);
+                    }
+                    else if (command == "GetDepartmentList")
+                    {
+                        com.Parameters.AddWithValue("@command", command);
+                        com.Parameters.AddWithValue("@intSchool_id", onlineClassTimetable.intSchool_id);
+                        com.Parameters.AddWithValue("@intusertype_id", onlineClassTimetable.intusertype_id);
                     }
                     SqlDataAdapter da = new SqlDataAdapter(com);
                     DataSet ds = new DataSet();
@@ -1711,6 +1720,7 @@ namespace SKSchoolApi.Database
                         com.Parameters.AddWithValue("@intSchool_id", onlineClassSchedule.intSchool_id);
                         com.Parameters.AddWithValue("@intTeacher_id", onlineClassSchedule.intTeacher_id);
                         com.Parameters.AddWithValue("@dtLecture_date", onlineClassSchedule.dtLecture_date);
+                        com.Parameters.AddWithValue("@intStandard_id", onlineClassSchedule.intStandard_id);
                     }
                     else if (command == "AdminNotification")
                     {
@@ -1718,6 +1728,7 @@ namespace SKSchoolApi.Database
                         //  com.Parameters.AddWithValue("@intAcademic_id", onlineClassSchedule.intAcademic_id);
                         com.Parameters.AddWithValue("@intSchool_id", onlineClassSchedule.intSchool_id);
                         com.Parameters.AddWithValue("@dtLecture_date", onlineClassSchedule.dtLecture_date);
+                        com.Parameters.AddWithValue("@intStandard_id", onlineClassSchedule.intStandard_id);
                     }
                     SqlDataAdapter da = new SqlDataAdapter(com);
                     DataSet ds = new DataSet();

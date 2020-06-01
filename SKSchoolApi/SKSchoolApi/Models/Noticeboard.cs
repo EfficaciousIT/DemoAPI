@@ -18,5 +18,6 @@ namespace SKSchoolApi.Models
         public int intInserted_by { get; set; }
         public String InsertIP { get; set; }
         public int intSchool_id { get; set; }
+        public int intAcademic_id { get; set; }
     }
 }

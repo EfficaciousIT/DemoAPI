@@ -36,11 +36,12 @@ namespace SKSchoolApi.Controllers
             DataSet ds = record.DashboardDetails(command, dashboard);
             return ds;
         }
-        public DataSet Get(string command, string intstanderd_id, int intSchool_id)
+        public DataSet Get(string command, string intstanderd_id, int intSchool_id, string intAcademic_id)
         {
             Dashboard dashboard = new Dashboard();
             dashboard.intstanderd_id = Convert.ToInt32(intstanderd_id);
             dashboard.intSchool_id = Convert.ToInt32(intSchool_id);
+            dashboard.intAcademic_id = Convert.ToInt32(intAcademic_id);
             DataSet ds = record.DashboardDetails(command, dashboard);
             return ds;
         }
