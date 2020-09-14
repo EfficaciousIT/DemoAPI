@@ -191,6 +191,7 @@
     <Compile Include="Controllers\OtherFeeController.cs" />
     <Compile Include="Controllers\OutstandingFeeController.cs" />
     <Compile Include="Controllers\ProfileController.cs" />
+    <Compile Include="Controllers\SchoolFeeDetailsController.cs" />
     <Compile Include="Controllers\StaffController.cs" />
     <Compile Include="Controllers\StandardController.cs" />
     <Compile Include="Controllers\StudentStandardWiseController.cs" />
@@ -200,6 +201,7 @@
     <Compile Include="Controllers\TimeTableController.cs" />
     <Compile Include="Database\ChatMessage.cs" />
     <Compile Include="Database\DB.cs" />
+    <Compile Include="Database\SchoolFees.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -209,6 +211,7 @@
     <Compile Include="Models\CustomUploadMultipartFormProvider.cs" />
     <Compile Include="Models\Dashboard.cs" />
     <Compile Include="Models\Event.cs" />
+    <Compile Include="Models\FeeCollection.cs" />
     <Compile Include="Models\feecollectiondetails.cs" />
     <Compile Include="Models\Leave.cs" />
     <Compile Include="Models\Library.cs" />
